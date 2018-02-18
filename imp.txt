@@ -1,0 +1,29 @@
+Computer Networks
+Network ports
+Firewall
+Protocols like HTTP, FTP, DNS, SMTP and their working
+JAVA, PHP, Python
+Linux
+
+
+Key-logger REFOG
+RAT(Remote administration Tool)
+Booter
+Brute force
+VPN
+
+
+Desktop vs Server
+https://www.youtube.com/watch?v=a2B69vCtjOU&index=2&list=PLTgavEZk0mZX7P2WVuE6hN9qVnkTgrAc9
+https://www.youtube.com/watch?v=ZDSzcs6NXx8&list=PLTgavEZk0mZX7P2WVuE6hN9qVnkTgrAc9&index=3&spfreload=1
+
+http://www.tweakandtrick.com/2011/09/command-prompt-tricks-hacks-codes.html
+
+
+Address Types
+ram structure
+system calls
+
+coreman
+dynamic programming
+data structures
